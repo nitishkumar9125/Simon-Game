@@ -1,0 +1,68 @@
+/* body {
+  font-family: Arial;
+}
+
+#mainImg {
+  width: 35%;
+}
+
+.box {
+  border: 0.25px solid black;
+  background-color: lightgray;
+  width: 200px;
+  padding: 1rem;
+}
+
+.boxLink {
+  text-decoration: none;
+}
+
+.oldImg {
+  height: 200px;
+  width: 200px;
+  margin-right: 1rem;
+}
+
+#description {
+  background-color: antiquewhite;
+}
+#btn{
+  background-color: blue;
+  color: white;
+}
+.heading{
+  text-decoration: solid underline;
+  color: purple;
+} */
+body{
+  text-align: center;
+}
+.blue{
+  background-color: aqua;
+}
+.pink{
+  background-color: darkmagenta;
+}
+.lilac{
+  background-color: darkcyan;
+}
+.green{
+  background-color:gray ;
+}
+.box{
+  height: 200px;
+  width: 200px;
+  border-radius: 20%;
+  margin:20px 10px 10px 10px;
+}
+.one-line{
+  display: flex;
+  justify-content: center;
+}
+.second-line{
+  display: flex;
+  justify-content: center;
+}
+.flash{
+  background-color: white;
+}
